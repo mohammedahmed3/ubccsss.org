@@ -5,7 +5,7 @@ aliases:
 # Tutor data can be found in /data/tutor.yaml
 ---
 
-The CSSS has found a number of tutors interested in providing extra help for
+The CSSS has found a number of tutors interested to provide extra help for
 students taking Computer Science courses. The tutors are not background-checked, hence
 they are not affiliated with or endorsed by the CSSS.
 
